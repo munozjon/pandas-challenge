@@ -2,13 +2,7 @@
 
 ## Module 4 Challenge
 
-For this challenge, I analyzed data from a school district using a Jupyter Notebook. I performed multiple functions on the data from the Pandas library and analyzed the results from the data within the notebook PyCitySchools, located in the PyCitySchools folder. Below is the analysis.
-
----
-
-# PyCitySchools Analysis
-
-For this assignment, I analyzed and interpreted the information about a school district's standardized test results. I was provided with two CSV files, one that contained information for each school in the district, and the other contained information, including test results, for each student at each school in the district. With this data, I completed an in-depth analysis of the overall district, as well as each school's performance.
+For this assignment, I analyzed and interpreted the information about a school district's standardized test results using Jupyter Notebook. The notebook, PyCitySchools, is located in the PyCitySchools folder of the repository. I was provided with two CSV files, one that contained information for each school in the district, and the other that contained information, including test results, for each student at each school in the district. With this data, I completed an in-depth analysis of the overall district, as well as each school's performance, using functions in the Pandas library.
 
 ## District Overall Summary
 
